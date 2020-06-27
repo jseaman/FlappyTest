@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ObstacleManager : MonoBehaviour {
+public class ObstacleSpawner : MonoBehaviour {
     public GameObject obstacleObj;
     public int count = 4;
     public float separation = 4;
